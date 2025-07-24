@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(223, 211, 211);
+}
+
+.navegador {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+.navegador li {
+    padding: 12px 16px;
+}
+
+section {
+    display: flex;
+}
+
+.perfil img {
+    border-radius: 50%;
+    width: 350px;
+    height: auto;
+}
